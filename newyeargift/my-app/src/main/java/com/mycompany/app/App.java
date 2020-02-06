@@ -66,7 +66,7 @@ public class App
 		}
 		Chocolates dairymilk=new  Chocolates("dairymilk",50);
 		Chocolates silk=new  Chocolates("silk",70);
-		Chocolates fivestar=new  Chocolates("fivestart",30);
+		Chocolates fivestar=new  Chocolates("fivestar",30);
 		Sweets jamun=new Chocolates("jamun",15);
 		Sweets kajukatli=new Chocolates("kajukatli",45);
 		Sweets rasgulla=new Chocolates("rasgulla", 60);
